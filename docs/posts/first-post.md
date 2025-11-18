@@ -1,9 +1,15 @@
 ---
-date:
-  created: 2025-11-14
+draft: true
+date: 2025-11-14
+authors:
+  - jax-team
 ---
 
 
-# Test blog post
+# Test post
 
-Lorem ipsum whatever whatever. Here's some more.
+Here is some content above the fold.
+
+<!-- more -->
+
+Here is some more content below the fold.

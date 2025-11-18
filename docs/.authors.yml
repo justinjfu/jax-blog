@@ -1,0 +1,10 @@
+authors:
+  jax-team:
+    name: JAX Team
+    description: Team posts
+    avatar: https://github.com/jax-ml.png
+  jake:
+    name: Jake VanderPlas
+    description: JAX team member
+    avatar: http://github.com/jakevdp.png
+
